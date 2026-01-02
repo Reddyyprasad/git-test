@@ -1,0 +1,2 @@
+git is version control system 
+vcs is used to save changes of old repositories 
